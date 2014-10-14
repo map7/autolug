@@ -1,0 +1,13 @@
+* Readme
+
+Autolug automatically manages a Linux Users Group.
+
+** TODO 
+
+- update website of upcoming meeting
+- email announcement on mailing list (1 week before and on the day)
+- announce on IRC #mlug-au
+- [[https://github.com/andrew/lanyrd][Create an event automatically on Lanyrd]]
+- post to techevents
+- post on facebook #MLUG group
+- tweet the event.
